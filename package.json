@@ -5,12 +5,17 @@
     "cheerio": "^1.0.0",
     "crypto-js": "^4.2.0",
     "express": "^5.1.0",
+    "faker": "^6.6.6",
     "googleapis": "^144.0.0",
     "mailparser": "^3.7.2",
     "node-imap": "^0.9.6",
     "puppeteer": "^23.5.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "qrcode": "^1.5.4",
     "shell-quote": "^1.8.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.7.0"
   }
 }
